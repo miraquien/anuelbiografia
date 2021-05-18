@@ -1,0 +1,16 @@
+*{
+background: #3B9CE9 ;
+}
+#biografia{
+	text-align: center;
+	line-height: 150px;
+	font-size: 30px;
+}
+#contenido {
+	line-height: 24px;
+	font-size: 20px;
+	text-align: center;
+}
+#imagen {
+	text-align: center;
+}
